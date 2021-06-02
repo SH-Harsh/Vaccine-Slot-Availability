@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textview" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/backslash</item>
+        <item name="android:layout_marginVertical">4dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
